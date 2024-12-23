@@ -1,1 +1,2 @@
 # Crop_Recommendation
+This project is a Crop Recommendation System designed to help farmers make informed decisions about which crops to grow based on soil and weather conditions. The system uses various input parameters such as soil type, temperature, humidity, and other environmental factors to recommend the most suitable crops for a given region. The goal is to improve crop yield and optimize farming practices, thereby enhancing agricultural productivity and sustainability.
