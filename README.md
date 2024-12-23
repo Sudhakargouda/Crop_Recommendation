@@ -2,9 +2,9 @@
 
 Features - Input various environmental factors such as soil type, rainfall, temperature, etc.
 
-           Get recommendations for the most suitable crops based on the provided data.
+Get recommendations for the most suitable crops based on the provided data.
 
-           Built with Flask for easy web deployment.
+Built with Flask for easy web deployment.
 
 Technologies Used
 
